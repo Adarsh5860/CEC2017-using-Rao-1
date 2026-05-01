@@ -1,0 +1,44 @@
+Best Fitness	9.000000e+02
+Mean Fitness	9.000000e+02
+Worst Fitness	9.000000e+02
+Std Dev	2.681874e-09
+SEM	4.896409e-10
+Ideal	9.000000e+02
+Runs	30
+Max FES	250000
+Iterations	5000
+Total Time	2.93
+Avg Time	0.22
+Success Rate	100.0
+
+Per-run FES used:
+Run 1	4500
+Run 2	4900
+Run 3	4000
+Run 4	4550
+Run 5	4000
+Run 6	4250
+Run 7	4450
+Run 8	4200
+Run 9	3650
+Run 10	4300
+Run 11	4400
+Run 12	3200
+Run 13	3700
+Run 14	4550
+Run 15	4500
+Run 16	4350
+Run 17	4700
+Run 18	4250
+Run 19	3600
+Run 20	4950
+Run 21	4350
+Run 22	3350
+Run 23	3450
+Run 24	4250
+Run 25	4000
+Run 26	4050
+Run 27	3900
+Run 28	3800
+Run 29	4050
+Run 30	4500

@@ -1,0 +1,4 @@
+Best solution for F7 D2:
+Decision variables:
+x1	-4.658758e+01
+x2	4.247441e+01
